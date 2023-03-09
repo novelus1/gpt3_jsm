@@ -131,8 +131,9 @@
     .gpt3__navbar-menu_container-links-sign {
         display: block;
     }
-}
 
-.gpt3__navbar-menu {
+
+    .gpt3__navbar-menu {
     display: flex
+    }
 }
